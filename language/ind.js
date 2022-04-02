@@ -1088,7 +1088,7 @@ World depo :
 Vps Made By : 
 note : Panel sus no Reff
 Expired : 25 - 30Day
-Buy?DM : wa.me/6289530298948?text=bang+buy+vps
+Buy?DM : wa.me/6288270863279?text=bang+buy+vps
 
 Sell GTBOT : 8DL
 
@@ -1129,7 +1129,7 @@ Paket Super Free Proctect
 `}
 
 exports.zeksapi = (prefix) => { 
-return `*╭─❲ ZEKS ❳*
+return `*╭─❲ DANZBOT ❳*
 ${bi}${prefix}zestetikpic
 ${bi}${prefix}zmemeindo
 ${bi}${prefix}zdarkjokes
